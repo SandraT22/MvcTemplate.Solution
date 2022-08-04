@@ -42,6 +42,7 @@ Download MySQL Workbench, follow the setup wizard & create a localhost server on
 <li>Open a terminal and navigate to your Desktop with <strong>cd</strong> command
 <li>Run,   
 <strong>$ git clone https://github.com/SandraT22/MvcTemplate.Solution.git</strong>
+<li>Be sure to rename everything so that it matches your project!
 <br>
 </details>
 
