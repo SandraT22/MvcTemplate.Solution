@@ -117,4 +117,7 @@ _If you have any questions or concerns, please feel free to reach out to me [via
 
 
 
-Big Thanks to Garrett Hays @ https://github.com/GarrettHays & Zachary Waggoner @ https://https://github.com/CyndaZ42 for amazing README formatting and instructions!
+>#### _**A Big Thanks To:**_ 
+>#### **Garrett Hays @ https://github.com/GarrettHays**    
+>#### **Zachary Waggoner @ https://github.com/CyndaZ42**  
+>#### _**for amazing README formatting and instructions!**_ 
